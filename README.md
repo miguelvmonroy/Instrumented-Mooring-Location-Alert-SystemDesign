@@ -8,7 +8,7 @@ Este es un proyecto increíble que hace cosas increíbles.
 
 ## Tabla de Contenidos
 
-- [Instalación](#instalación)
+- [Actualización de Fimware en Hex del modulo RAK3172](#Actualizacion de Fimware)
 - [Uso](#uso)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
