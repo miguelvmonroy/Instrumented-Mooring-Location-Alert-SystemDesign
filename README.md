@@ -1,8 +1,6 @@
-# Instrumented-Mooring-Location-Alert-System-Design-
-
 
 ```markdown
-# Mi Proyecto Increíble
+#  Instrumented-Mooring-Location-Alert-System-Design
 
 ![Logo](https://via.placeholder.com/150)
 
