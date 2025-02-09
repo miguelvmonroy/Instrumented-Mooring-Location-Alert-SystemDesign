@@ -1,6 +1,7 @@
 
 ![image](https://github.com/user-attachments/assets/59239e73-0bf6-4189-9255-69a5199c9fc8)
 
+🚀 Instalación 
 
 ## Tabla de Contenidos
 - [Actualización de Fimware en Hex del modulo RAK3172](https://github.com/miguelvmonroy/Instrumented-Mooring-Location-Alert-SystemDesign/wiki/Actualizaci%C3%B3n-de-Fimware-en-Hex-del-modulo-RAK3172)
