@@ -10,3 +10,6 @@
 [cómo saber que Puerto esta usándose](https://github.com/miguelvmonroy/Instrumented-Mooring-Location-Alert-SystemDesign/wiki/c%C3%B3mo-saber-que-Puerto-esta-us%C3%A1ndose)
 
 
+[Informacion del modulo RAK3172](https://github.com/miguelvmonroy/Instrumented-Mooring-Location-Alert-SystemDesign/wiki/Informacion-del-modulo-RAK3172)
+
+[Instalación de Bibliotecas](https://github.com/miguelvmonroy/Instrumented-Mooring-Location-Alert-SystemDesign/wiki/Instalaci%C3%B3n-de-Bibliotecas)
