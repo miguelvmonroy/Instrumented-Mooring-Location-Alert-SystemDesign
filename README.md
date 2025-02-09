@@ -1,6 +1,6 @@
 
+![image](https://github.com/user-attachments/assets/59239e73-0bf6-4189-9255-69a5199c9fc8)
 
-![image](https://github.com/user-attachments/assets/8c310996-13be-4d3b-b071-f6585e66d555)
 
 
 ## Tabla de Contenidos
