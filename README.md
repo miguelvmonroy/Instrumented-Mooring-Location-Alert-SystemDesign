@@ -4,12 +4,11 @@
 
 
 
+## Test1
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/miguelvmonroy/Instrumented-Mooring-Location-Alert-SystemDesign/refs/heads/main/mapaLorap2p.png" alt="Test1" />
 </p>
-
-
-
 
 ## Table of Contents
 
