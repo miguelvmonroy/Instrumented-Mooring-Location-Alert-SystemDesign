@@ -2,7 +2,13 @@
 ![image](https://github.com/user-attachments/assets/59239e73-0bf6-4189-9255-69a5199c9fc8)
 
 
-![image](https://raw.githubusercontent.com/miguelvmonroy/Instrumented-Mooring-Location-Alert-SystemDesign/refs/heads/main/mapaLorap2p.png)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/miguelvmonroy/Instrumented-Mooring-Location-Alert-SystemDesign/refs/heads/main/mapaLorap2p.png" alt="Test1" />
+</p>
+
+
 
 
 ## Table of Contents
